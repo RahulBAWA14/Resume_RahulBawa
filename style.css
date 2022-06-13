@@ -1,0 +1,24 @@
+#sideBar,
+#content {
+    float: left;
+    padding: 1rem;
+}
+
+#sideBar {
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(8, 8, 8);
+    box-shadow: 2px 0px 4px rgba(0, 0, 0, 0.5);
+    margin: 0%;
+}
+
+/* #content {
+    
+} */
+
+body,
+html {
+    background-color: rgb(66, 65, 63);
+    margin: 0%;
+    height: 100%;
+}
