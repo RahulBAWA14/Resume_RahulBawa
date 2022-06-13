@@ -1,7 +1,7 @@
 #sideBar,
 #content {
     float: left;
-    padding: 1rem;
+    /* padding: 1rem; */
 }
 
 #sideBar {
