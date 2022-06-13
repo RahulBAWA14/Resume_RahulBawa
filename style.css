@@ -10,11 +10,12 @@
     background-color: rgb(8, 8, 8);
     box-shadow: 2px 0px 4px rgba(0, 0, 0, 0.5);
     margin: 0%;
+    width: 30%;
 }
 
-/* #content {
-    
-} */
+#content {
+    width: 70%;
+}
 
 body,
 html {
