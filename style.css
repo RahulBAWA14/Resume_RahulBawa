@@ -15,7 +15,9 @@
 
 #content {
     width: 65%;
-    min-height: 100vh;
+    height: 100%;
+    overflow: auto;
+    margin: 0%;
 }
 
 body {
